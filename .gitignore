@@ -1,0 +1,5 @@
+# IDEs and editors
+/.idea
+.project
+
+node_modules
